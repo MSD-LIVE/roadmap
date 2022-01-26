@@ -11,4 +11,3 @@ If you find problems with any of our MSD-LIVE tools such as the Data Repository,
 provide interim workarounds whenever possible.  If you can't find a solution to your problem, feel free to submit a new issue.
 
 
-## Guide to the roadmap
